@@ -1,0 +1,16 @@
+c:\users\e\documents\visual studio 2013\Projects\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Entities.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Layer.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Entities.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\Layer.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.Form1.resources
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.Cache
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\obj\Debug\Crud.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\DataModel.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\EntityFramework.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Crud\bin\Debug\DataModel.pdb

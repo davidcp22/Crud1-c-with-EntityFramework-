@@ -1,0 +1,10 @@
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\Layer.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\Layer.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\DataModel.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\Entities.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\EntityFramework.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\DataModel.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\bin\Debug\Entities.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\obj\Debug\Layer.csprojResolveAssemblyReference.cache
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\obj\Debug\Layer.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Layer\obj\Debug\Layer.pdb

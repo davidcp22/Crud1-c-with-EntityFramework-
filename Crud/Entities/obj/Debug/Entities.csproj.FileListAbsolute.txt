@@ -1,0 +1,5 @@
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Entities\bin\Debug\Entities.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Entities\bin\Debug\Entities.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Entities\obj\Debug\Entities.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\Entities\obj\Debug\Entities.pdb

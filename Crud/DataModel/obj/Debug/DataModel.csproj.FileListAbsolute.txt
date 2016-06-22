@@ -1,0 +1,8 @@
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\bin\Debug\DataModel.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\bin\Debug\DataModel.pdb
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\obj\Debug\DataModel.dll
+C:\Users\E\Documents\Visual Studio 2013\Projects\Crud\DataModel\obj\Debug\DataModel.pdb
